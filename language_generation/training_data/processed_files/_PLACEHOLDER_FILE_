@@ -1,0 +1,8 @@
+This directory should contain the JSON-files with all reviews for each of the five categories:
+ - laptops.json
+ - cell_phones.json
+ - mens_running_shoes.json
+ - vacuums.json
+ - plush_figures.json
+
+Each file has to contain a list of dictionaries where each dict is a review and has an attribute "text" containing the reviews text content.
