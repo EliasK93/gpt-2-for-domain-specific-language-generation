@@ -40,3 +40,10 @@ The frontend and routing is implemented in [Flask](https://flask.palletsprojects
   - `ijson`
   - `tqdm`
   - `flask`
+
+<br>
+
+### Notes
+
+The uploaded versions of the training data in this repository are cut off after the first 50 rows of each file, the 
+real training data contains a combined ~270.000 rows. The trained model files `pytorch_model.bin` for each model are omitted in this repository.
